@@ -1,0 +1,19 @@
+{
+  "name": "omnifood-optimizations",
+  "version": "1.0.0",
+  "description": "writing backend codes for this project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "author": "asadbek ibodullaev",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
